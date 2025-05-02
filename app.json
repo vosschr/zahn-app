@@ -4,7 +4,7 @@
     "slug": "zahn-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/zahn-icon-small.png",
     "scheme": "zahnapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
